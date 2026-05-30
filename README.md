@@ -17,47 +17,16 @@
 ## 🚀 About Me
 
 ```javascript
-const jaysingh = {
-    location: "Uttar Pradesh, India",
-    role: "Full Stack Developer",
-    
-    currentFocus: [
-        "MERN Stack Development",
-        "TypeScript",
-        "Next.js",
-        "System Design"
-    ],
-
-    currentlyBuilding: [
-        "Modern Web Applications",
-        "Educational Platforms",
-        "Conference Websites"
-    ],
-
-    technologies: {
-        frontend: [
-            "React.js",
-            "Next.js",
-            "TypeScript",
-            "Tailwind CSS"
-        ],
-
-        backend: [
-            "Node.js",
-            "Express.js",
-            "REST APIs"
-        ],
-
-        database: [
-            "MongoDB",
-            "MySQL",
-            "Firebase"
-        ]
-    },
-
-    goal: "Building impactful digital products",
-    
-    funFact: "I turn coffee ☕ into scalable applications 🚀"
+ ## 👨‍💻 About Me
+ const jaysingh = {
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
+  currentWork: ["MERN Projects", "Web Apps"],
+  learning: ["Next.js", "TypeScript"],
+  lookingFor: "Open Source Collaborations",
+  contact: "gjaysingh53@gmail.com",
+  funFact: "I love building impactful products & UI/UX",
+  askMeAbout: ["React", "Node.js", "MongoDB", "APIs"]
 };
 ```
 
