@@ -1,14 +1,14 @@
- <div align="center">
+<div align="center">
 
 # 👨‍💻 Jaysingh Gautam
 
-### Full Stack Developer | MERN Stack | React.js & React Native Developer
+### Full Stack Developer | Android Developer | MERN Stack Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Android+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Impactful+Web+%26+Mobile+Experiences;Open+to+Open+Source+Collaborations" alt="Typing SVG" />
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Jaysinghgautam&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Jaysinghgautam&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge)
 
 </div>
 
@@ -20,13 +20,14 @@
  ## 👨‍💻 About Me
  const jaysingh = {
   location: "India 🇮🇳",
-  role: "Full Stack Developer,Android Developer",
-  currentWork: ["MERN Projects", "Web Apps"],
+  role: "Full Stack & Android Developer",
+  expertise: ["JavaScript", "React", "Node.js", "MongoDB", "REST APIs"],
+  currentWork: ["MERN Stack Projects", "Scalable Web Applications"],
   learning: ["Next.js", "TypeScript"],
-  lookingFor: "Open Source Collaborations",
+  openTo: "Open Source Collaborations",
   contact: "gjaysingh53@gmail.com",
-  funFact: "I love building impactful products & UI/UX",
-  askMeAbout: ["React", "Node.js", "MongoDB", "APIs"]
+  askMeAbout: ["JavaScript", "React", "Node.js", "MongoDB", "APIs"],
+  funFact: "I enjoy building impactful products with thoughtful UI/UX."
 };
 ```
 
@@ -58,8 +59,9 @@
 
 ### Frontend
 
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
@@ -75,24 +77,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaysinghgautam&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysinghgautam&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -100,29 +92,7 @@
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jaysinghgautam&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaysinghgautam&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Jaysinghgautam/Jaysinghgautam/output/github-contribution-grid-snake.svg" />
-</p>
-
+ 
 ---
 
 # ✍️ Developer Quote
@@ -132,16 +102,15 @@
 </p>
 
 ---
-
-# 🚀 Featured Projects
+ ## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
-|----------|-----------|-------------|
-| Conference Website | MERN Stack | Complete conference management platform |
-| REC Sonbhadra Website | React + Node.js | Official college website |
-| Learning Dashboard | React + TypeScript | Modern educational platform |
-| Portfolio Website | Next.js | Personal portfolio website |
-
+| :--- | :--- | :--- |
+| **E-Commerce Website** | MongoDB, Express.js, React.js, Node.js, Razorpay | A scalable e-commerce platform featuring product catalogues, authentication, shopping cart, secure payments, order management, and an admin dashboard for inventory and sales tracking. |
+| **Vyombotics Educational Website** | React.js, Firebase, Tailwind CSS, JavaScript | A responsive educational platform that helps students discover courses, access learning content, and engage with skill-based programs using Firebase-powered authentication and data management. |
+| **Secure Notes Management System** | MongoDB, Express.js, React.js, Node.js | A secure MERN application for note creation and management, including authentication, authorization, protected accounts, CRUD operations, and responsive design. |
+| **CNCRECS Conference Website** | React.js, Node.js, JavaScript | Official conference website for Rajkiya Engineering College Sonbhadra, providing event details, paper-submission information, speaker profiles, schedules, and registration features. |
+| **Digital Marketing Agency Website** | React.js, JavaScript, Tailwind CSS | A modern, responsive agency website developed during an internship, featuring engaging UI/UX, smooth animations, interactive sections, and a clean service-focused layout. |
 ---
 
 <div align="center">
