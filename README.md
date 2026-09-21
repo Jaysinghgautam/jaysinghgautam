@@ -2,7 +2,7 @@
 
 # 👨‍💻 Jaysingh Gautam
 
-### Full Stack Developer | MERN Stack | Open Source Enthusiast
+### Full Stack Developer | MERN Stack | React.js & React Native Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 
@@ -20,7 +20,7 @@
  ## 👨‍💻 About Me
  const jaysingh = {
   location: "India 🇮🇳",
-  role: "Full Stack Developer",
+  role: "Full Stack Developer,Android Developer",
   currentWork: ["MERN Projects", "Web Apps"],
   learning: ["Next.js", "TypeScript"],
   lookingFor: "Open Source Collaborations",
